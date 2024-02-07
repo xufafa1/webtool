@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-https://xufafa1.github.io/web_tool/
+https://xufafa1.github.io/webtool/
 
 
 ## 二次开发
